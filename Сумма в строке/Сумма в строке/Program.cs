@@ -11,11 +11,14 @@ namespace Сумма_в_строке
         static void Main(string[] args)
         {
             string s, sb;
-            int i, k, j, r;
+            int i, k, j, r,l;
             k = 0;
             r = 0;
+            l=0;
             sb = "";
             s = Console.ReadLine();
+            l=s.Length;
+            s=s.Insert(l,"+");
             for (i = 0; i < s.Length; i++)
             {
                 if (s[i].ToString() == "+")
