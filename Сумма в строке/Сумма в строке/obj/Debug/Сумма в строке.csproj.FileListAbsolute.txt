@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\GitHub\Discoverivan\Сумма в строке\Сумма в строке\bin\Debug\Сумма в строке.exe.config
+C:\Users\Ivan\Documents\GitHub\Discoverivan\Сумма в строке\Сумма в строке\bin\Debug\Сумма в строке.exe
+C:\Users\Ivan\Documents\GitHub\Discoverivan\Сумма в строке\Сумма в строке\bin\Debug\Сумма в строке.pdb
+C:\Users\Ivan\Documents\GitHub\Discoverivan\Сумма в строке\Сумма в строке\obj\Debug\Сумма в строке.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\Discoverivan\Сумма в строке\Сумма в строке\obj\Debug\Сумма в строке.exe
+C:\Users\Ivan\Documents\GitHub\Discoverivan\Сумма в строке\Сумма в строке\obj\Debug\Сумма в строке.pdb
