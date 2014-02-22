@@ -21,6 +21,7 @@ namespace _48
                 if (s[i].ToString() == "и") 
                 {
                     s = s.Insert(i + 1, z);
+                    break;
                 }
             }
             Console.WriteLine(s);
